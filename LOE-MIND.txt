@@ -1,0 +1,7 @@
+VISIT SAAREMAA KODULEHT
+
+Paki ZIP lahti ja ava index.html brauseris. Logo asub index.html kõrval ning kõik viis fotot images/ kaustas. Hoia kaustade struktuur alles.
+
+Fotod on veebi jaoks vähendatud. Algsed üleslaaditud failid on muutmata. Fotograafid on märgitud fotode juures ja jaluses. Kaartide sisu on kohandatud päris fotodele: Koigi raba, Kuressaare loss ja Sõrve tuletorn.
+
+Enne avaldamist: kontrolli fotode kasutusõigusi, lisa lõplikud andmekaitsetingimused ning sündmuste ja ettevõtete täpsed lingid. Aino veebifont pole lisatud. Alamvaated kasutavad #aadresse.
